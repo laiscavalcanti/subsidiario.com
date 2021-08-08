@@ -5,7 +5,7 @@ description: em "The Well-trained Mind, A Guide to Classical Education at Home"
 tags: ["subsidiario"]
 author: por Susan Wise Bauer e Jessie Wise
 image: ../src/images/images-19-06/books.jpg
-imagePost: ../src/static/assets/img/imagesPosts/books.jpg
+imagePost: ../static/assets/img/imagesPosts/books.jpg
 templateKey: slideshow
 ---
 

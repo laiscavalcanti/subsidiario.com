@@ -34,7 +34,7 @@ export const SearchWrapper = styled.section`
     padding: 0.6rem;
     width: 35rem;
     margin: 0 auto;
-    font-family: "Roboto Slab", sans-serif;
+    font-family: "Libre Baskerville", sans-serif;
     &::placeholder {
       color: var(--backgroundSelection);
     }

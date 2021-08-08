@@ -5,7 +5,7 @@ description: O melhor de um dos mais ecléticos escritores do Brasil.
 tags: ["subsidiario"]
 author: por Cícero Marra
 image: ../src/images/images-30-07/unnamed.jpg
-imagePost: ../src/static/assets/img/imagesPosts/unnamed.jpg
+imagePost: ../static/assets/img/imagesPosts/unnamed.jpg
 templateKey: slideshow
 ---
 

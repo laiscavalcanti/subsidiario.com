@@ -5,7 +5,7 @@ description: A melhor forma de adentrar o estranho mundo do ensino obrigatório 
 tags: ["subsidiario"]
 author: por John Taylor Gatto
 image: ../src/images/images-08-06/Gatto_Image.png
-imagePost: ../src/static/assets/img/imagesPosts/Imagepost_Gatto.png
+imagePost: ../static/assets/img/imagesPosts/Imagepost_Gatto.png
 templateKey: " "
 ---
 

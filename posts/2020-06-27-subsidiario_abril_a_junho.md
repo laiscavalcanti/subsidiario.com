@@ -5,7 +5,7 @@ description: Uma noite sem dormir é pior que a morte, é a vontade de morrer.
 tags: ["subsidiario"]
 author: por Cícero Marra
 image: ../src/images/images-27-06/lais.jpg
-imagePost: ../src/static/assets/img/imagesPosts/lais.jpg
+imagePost: ../static/assets/img/imagesPosts/lais.jpg
 templateKey: slideshow
 ---
 

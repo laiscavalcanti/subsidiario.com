@@ -5,7 +5,7 @@ description: Quatro décadas de romances divertidos, ágeis e inteligentes tamb�
 tags: ["subsidiario"]
 author: por Cícero Marra
 image: ../src/images/images-13-10/rubem.jpg
-imagePost: ../src/static/assets/img/imagesPosts/rubem.jpg
+imagePost: ../static/assets/img/imagesPosts/rubem.jpg
 templateKey: slideshow
 ---
 

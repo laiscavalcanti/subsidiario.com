@@ -5,7 +5,7 @@ description: Se ao menos todo dia fosse glorioso como este!
 tags: ["subsidiario"]
 author: por Cícero Marra
 image: ../src/images/images-01-11/CAPA.png
-imagePost: ../src/static/assets/img/imagesPosts/CAPA.png
+imagePost: ../static/assets/img/imagesPosts/CAPA.png
 templateKey: slideshow
 ---
 

@@ -5,7 +5,7 @@ description: Quem é esse cara e que tipo de cultura se pratica ali?
 tags: ["subsidiario"]
 author: por Cícero Marra
 image: ../src/images/images-09-06/pipoca.jpg
-imagePost: ../src/static/assets/img/imagesPosts/pipoca.jpg
+imagePost: ../static/assets/img/imagesPosts/pipoca.jpg
 templateKey: " "
 ---
 
