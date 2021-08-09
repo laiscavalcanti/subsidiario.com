@@ -23,6 +23,6 @@ collections:
       - { label: "image", name: "image", widget: "image" }
       - { label: "imagePost", name: "imagePost", widget: "image" }
       - { label: "author", name: "author", widget: "string" }
-    - { label: "Tags", name: "tags", widget: "list", default: ["livro"] }
+      - { label: "Tags", name: "tags", widget: "list", default: ["livro"] }
       - { label: "TemplateKey", name: "templateKey", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
