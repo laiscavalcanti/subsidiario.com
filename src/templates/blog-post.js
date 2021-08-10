@@ -5,7 +5,6 @@ import { kebabCase } from "lodash";
 import Layout from "../components/Layout";
 import SEO from "../components/seo";
 import RecommendedPosts from "../components/RecommendedPosts";
-import PostImage from "../components/PostImage";
 import scrollToTop from "../utils/scrollToTop";
 import { ArrowUpward as ArrowUp } from "@styled-icons/material-rounded/ArrowUpward";
 import { Tag } from "@styled-icons/boxicons-regular/Tag";
@@ -26,9 +25,9 @@ const BlogPost = ({ data, pageContext }) => {
         description={post.frontmatter.description}
         image={post.frontmatter.image}
       />
-
-      <GatsbyImage image={imagePost} />
-
+      
+        <GatsbyImage image={imagePost} />
+      
       <S.PostHeader>
         <S.PostDate>
           {post.frontmatter.date} • {post.timeToRead} min de leitura
@@ -77,11 +76,12 @@ export const query = graphql`
           childImageSharp {
             gatsbyImageData(
               width: 1400
-              placeholder: BLURRED
+              height: 600
               formats: [AUTO, WEBP, AVIF]
               quality: 50
               breakpoints: [750, 1080, 1366, 1920]
               backgroundColor: "transparent"
+              layout: CONSTRAINED
             )
           }
         }
