@@ -1,7 +1,6 @@
 import styled from "styled-components"
-import {Link }from "gatsby"
+import { Link }from "gatsby"
 import media from "styled-media-query"
-import StaticImage from "gatsby-plugin-image"
 
 export const PostItemLink = styled(Link)`
   display: flex;

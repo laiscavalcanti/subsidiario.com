@@ -16,6 +16,7 @@ module.exports = {
     "gatsby-plugin-netlify-cms",
     "gatsby-plugin-styled-components",
     "gatsby-plugin-image",
+    "gatsby-plugin-scroll-indicator",
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
@@ -81,6 +82,19 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: `gatsby-plugin-scroll-indicator`,
+      options: {
+          // set the color you want for your progress bar here
+          color: 'linear-gradient(to right, #CC99F7, #663391)',
+          // set the height of the scroll indicator
+          height: '10px',
+          // Set specific paths where you want the scroll indicator using regex
+          paths: ['/posts/**'],
+          // Configure the z-index of the indicator element
+          zIndex: `9999`,
+      },
+  },
     {
       resolve: `gatsby-plugin-algolia-search`,
       options: {
