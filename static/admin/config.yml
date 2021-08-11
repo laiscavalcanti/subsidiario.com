@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   repo: laiscavalcanti/subsidiario.com
   branch: main # Branch to update (optional; defaults to master)
-  site_domain: https://kind-roentgen-c165d8.netlify.app/
+  site_domain: https://subsidiario.com/
 
 publish_mode: editorial_workflow
 media_folder: static/assets/img
