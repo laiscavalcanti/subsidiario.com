@@ -1,11 +1,13 @@
 ---
-date: 2021-01-11
 title: Capítulo 1 - "De Schola et Discipulī"
-description: Primeiro capítulo de "Darlene, meu Amor" (nome provisório) a ser lançado em alguma data do ano de 2021, espero.
-tags: ["subsidiario"]
-author: por Cícero Marra
+description: Primeiro capítulo de "Darlene, meu Amor" (nome provisório) a ser
+  lançado em alguma data do ano de 2021, espero.
+date: 2021-01-11
 image: ../src/images/images-livro/deschola.png
 imagePost: ../src/images/images-livro/deschola.png
+author: por Cícero Marra
+tags:
+  - livro
 templateKey: slideshow
 ---
 Capítulo 1 - "De Schola et Discipulī"
