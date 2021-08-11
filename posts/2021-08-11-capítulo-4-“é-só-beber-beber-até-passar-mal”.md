@@ -2,7 +2,7 @@
 title: Capítulo 4 - “É só beber, beber até passar mal”
 description: Quarto capítulo de "Darlene, meu Amor" (nome provisório) a ser
   lançado em alguma data do ano de 2021, espero.
-date: 2021-08-11 12:17:43
+date: 2021-03-24 12:17:43
 image: static/assets/img/moradadacolina.png
 imagePost: static/assets/img/moradadacolina.png
 author: por Cícero Marra
