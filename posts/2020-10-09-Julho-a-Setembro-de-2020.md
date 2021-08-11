@@ -1,11 +1,13 @@
 ---
-date: 2020-10-12
 title: Julho a Setembro de 2020
-description: Se a gente não se forçar a escrever nenhuma linha sai, e a vida vai assim, passando à toa, à toa...
-tags: ["subsidiario"]
+description: Se a gente não se forçar a escrever nenhuma linha sai, e a vida vai
+  assim, passando à toa, à toa...
+date: 2020-10-12
+image: static/assets/img/2.jpg
+imagePost: static/assets/img/2.jpg
 author: por Cícero Marra
-image: ../src/images/images-livro/deschola.png
-imagePost: ../src/images/images-livro/deschola.png
+tags:
+  - subsidiario
 templateKey: slideshow
 ---
 
