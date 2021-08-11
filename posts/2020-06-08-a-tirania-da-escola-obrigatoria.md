@@ -1,11 +1,13 @@
 ---
-date: 2020-06-08
 title: A Tirania da Escola Obrigatória
-description: A melhor forma de adentrar o estranho mundo do ensino obrigatório é através dos livros.
-tags: ["subsidiario"]
-author: por John Taylor Gatto
+description: A melhor forma de adentrar o estranho mundo do ensino obrigatório é
+  através dos livros.
+date: 2020-06-08
 image: ../src/images/images-08-06/Gatto_Image.png
 imagePost: ../static/assets/img/imagesPosts/Imagepost_Gatto.png
+author: por John Taylor Gatto
+tags:
+  - ensaio
 templateKey: " "
 ---
 
