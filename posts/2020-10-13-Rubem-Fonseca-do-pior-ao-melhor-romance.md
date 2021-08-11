@@ -1,11 +1,12 @@
 ---
-date: 2020-10-15
 title: Rubem Fonseca - do pior ao melhor romance
 description: Quatro décadas de romances divertidos, ágeis e inteligentes também
-tags: ["subsidiario"]
-author: por Cícero Marra
+date: 2020-10-15
 image: ../src/images/images-13-10/rubem.jpg
 imagePost: ../static/assets/img/imagesPosts/rubem.jpg
+author: por Cícero Marra
+tags:
+  - ensaio
 templateKey: slideshow
 ---
 
