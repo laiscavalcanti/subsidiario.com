@@ -53,12 +53,12 @@ class Slideshow extends React.Component {
                       duration={0.5}
                       bg={getThemeColor()}
                     >
-                     
+                     <S.CarouselImage>
                         <GatsbyImage
                           image={getImage(post.frontmatter.image)}
                           alt="pictures-slide"
                         />
-                    
+                    </S.CarouselImage>
                       <S.CarouselInfo>
                         <S.CarouselDate>
                           {post.frontmatter.date} - {post.frontmatter.tags}
@@ -113,9 +113,7 @@ export default () => (
                 image {
                   childImageSharp {
                     gatsbyImageData(
-                      width: 1000
-                      height: 800
-                      placeholder: BLURRED
+                      width: 850
                       formats: [AUTO, WEBP, AVIF]
                       quality: 50
                       breakpoints: [750, 1080, 1366, 1920]

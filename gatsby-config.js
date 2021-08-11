@@ -85,16 +85,16 @@ module.exports = {
     {
       resolve: `gatsby-plugin-scroll-indicator`,
       options: {
-          // set the color you want for your progress bar here
-          color: 'linear-gradient(to right, #CC99F7, #663391)',
-          // set the height of the scroll indicator
-          height: '10px',
-          // Set specific paths where you want the scroll indicator using regex
-          paths: ['/posts/**'],
-          // Configure the z-index of the indicator element
-          zIndex: `9999`,
+        // Configure color of the scroll indicator
+        color: "linear-gradient(to right, #fffff0, #d0d0c4)",
+        // Height of the scroll indicator
+        height: "3px",
+        // Configure paths where the scroll indicator will appear
+        paths: [ '/*'],
+        // Configure the z-index of the indicator element
+        zIndex: `9999`,
       },
-  },
+    },
     {
       resolve: `gatsby-plugin-algolia-search`,
       options: {

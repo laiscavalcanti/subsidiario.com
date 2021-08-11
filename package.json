@@ -28,6 +28,7 @@
     "gatsby-plugin-manifest": "^3.10.0",
     "gatsby-plugin-mdx": "^2.10.1",
     "gatsby-plugin-netlify-cms": "^5.11.0",
+    "gatsby-plugin-page-progress": "^2.2.1",
     "gatsby-plugin-react-helmet": "^4.10.0",
     "gatsby-plugin-scroll-indicator": "^1.0.1",
     "gatsby-plugin-sharp": "^3.10.2",

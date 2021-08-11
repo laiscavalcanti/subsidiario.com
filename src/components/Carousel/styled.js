@@ -120,7 +120,7 @@ export const CarouselLink = styled(Link)`
     height: 40rem;
 `}
 `;
-export const CarouselImage = styled.img`
+export const CarouselImage = styled.div`
   display: flex;
   width: 60%;
   height: 30rem;
