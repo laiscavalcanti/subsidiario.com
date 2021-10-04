@@ -10,8 +10,10 @@ tags:
 templateKey: slideshow
 ---
 ### 4 DE JULHO
-Desde quando estava no pré primário, lembro como não gostava de praticar esportes com os outros meninos da minha idade. Era gordinho e tinha vergonha das minhas canelas roliças e das bainhas escorrendo pelos flancos do meu corpo. Na hora da educação física e das atividades na piscina, enquanto a meninada nadava feliz, eu ficava na sala de aula, emburrado. </p>
-Esse medo dos esportes e de competir não mudou com o passar do tempo. Nunca gostei de video games, achava difícil e nunca me prontifiquei a jogar na frente dos outros, por medo talvez de ser ridicularizado. O mesmo aconteceu com karatê e futebol. Hoje em dia, vinte e tantos anos depois, ainda me sinto o mesmo gordinho inseguro quando tenho que participar de um jogo de cartas, de estratégia ou racha. Passo vergonha quando tenho que pensar rápido, sou uma pessoa de gestos e pensamentos lentos e acho que nunca vou mudar. </p>
+Desde quando estava no pré primário, lembro como não gostava de praticar esportes com os outros meninos da minha idade. Era gordinho e tinha vergonha das minhas canelas roliças e das bainhas escorrendo pelos flancos do meu corpo. Na hora da educação física e das atividades na piscina, enquanto a meninada nadava feliz, eu ficava na sala de aula, emburrado.
+
+Esse medo dos esportes e de competir não mudou com o passar do tempo. Nunca gostei de video games, achava difícil e nunca me prontifiquei a jogar na frente dos outros, por medo talvez de ser ridicularizado. O mesmo aconteceu com karatê e futebol. Hoje em dia, vinte e tantos anos depois, ainda me sinto o mesmo gordinho inseguro quando tenho que participar de um jogo de cartas, de estratégia ou racha. Passo vergonha quando tenho que pensar rápido, sou uma pessoa de gestos e pensamentos lentos e acho que nunca vou mudar.
+
 E por que lembro de tudo isso agora? É que hoje, numa casa de praia alugada por mim e alguns amigos Laís na Barra do São Miguel, fiquei mais uma vez emburrado e quase fiz ceninha depois de ter perdido quatro partidas seguidas de um jogo de cartas qualquer. Foi ridículo. Não sei por que eu ainda me sujeito a essas situações. Por mim, não teria nem participado. Preferia ter ficado na minha no quarto, lendo ou vendo vídeos na internet, enquanto os outros se divertem socialmente. Mas se eu fizer isso, Laís enche o raio do meu saco e o que significa perder um tempão para fazer as pazes depois.</p>
 
 ### 06 DE JULHO
@@ -52,12 +54,13 @@ De qualquer forma, achei bem friendly o feedback que recebi deles e que agora tr
 
 >Oi Cícero, espero que esteja bem!
 
->Quero agradecer sua participação e empenho em nosso processo. Foi um prazer te conhecer e saber mais sobre sua trajetória profissional. Entretanto, neste primeiro momento optamos por não seguir com sua candidatura.</p>
-> Aqui no Grupo Alura nós valorizamos muito o feedback e por esse motivo vou citar alguns pontos que levamos em consideração para a vaga de Designer Instrucional. Começando pelos pontos fortes que percebemos em você:
+>Quero agradecer sua participação e empenho em nosso processo. Foi um prazer te conhecer e saber mais sobre sua trajetória profissional. Entretanto, neste primeiro momento optamos por não seguir com sua candidatura. Aqui no Grupo Alura nós valorizamos muito o feedback e por esse motivo vou citar alguns pontos que levamos em consideração para a vaga de Designer Instrucional. Começando pelos pontos fortes que percebemos em você:
 >- Sua paixão por ensino e educação é algo notável, o que é muito importante para a área;
 >- Você se mostrou muito criativo e adepto a novas vivências, e isso é fundamental;
->- Você demonstrou muito engajamento durante o processo, o que é bem importante, pois mostra seu interesse na oportunidade.</p> 
-No entanto, existem alguns pontos que nos levaram a essa decisão que nós do Grupo Alura acreditamos ser essenciais para o seu desenvolvimento:</p>
+>- Você demonstrou muito engajamento durante o processo, o que é bem importante, pois mostra seu interesse na oportunidade.
+
+> No entanto, existem alguns pontos que nos levaram a essa decisão que nós do Grupo Alura acreditamos ser essenciais para o seu desenvolvimento:
+
 >- Durante a conversa acreditamos ser importante dar respostas mais detalhadas e claras, sabemos que em um processo seletivo podem surgir muitas ideias e lembranças em nossa mente, por isso é importante organizar os pontos mais importantes e trazer exemplos. Isso contribui para que possamos entender melhor suas vivências e experiências.
 
 
@@ -79,7 +82,8 @@ Numa hora inesperada do dia, ouvíamos o ranger do portão de lata e o motor da 
 
 Tio Rique era um verdadeiro touro cheio de vigor sertanejo. Um tipo “italianão” de filme: corpo roliço, cara barbuda, olhos pequenos e fundos, e uma pelagem grossa brotando de sua pele vermelha de sol. Pensando bem, até que o meu tio lembra um pouco o James Gandolfini de “Os Sopranos”.
 
-Assim como meu pai, o Tio Rique veio de uma geração de homens da roça, gente rústica, mas generosa, afeita ao cultivo da comida boa e farturenta, amante das madrugadas regadas a truco e pinga. Alguns diriam que esse apego aos prazeres terrenos cobrariam dele uma dívida cara que ele pagaria com a próprio vigor físico. </p>
+Assim como meu pai, o Tio Rique veio de uma geração de homens da roça, gente rústica, mas generosa, afeita ao cultivo da comida boa e farturenta, amante das madrugadas regadas a truco e pinga. Alguns diriam que esse apego aos prazeres terrenos cobrariam dele uma dívida cara que ele pagaria com a próprio vigor físico. 
+
 Diferente do meu pai e de muitos outros que se renderiam mais tarde à cidade grande, meu tio nunca se sentiu bem longe da roça por muito tempo. Só ia para cidade pra despachar algum documento e tratava de voltar o mais rápido possível. O lugar dele sempre foi a roça e por causa disso, víamos pouco o Tio Rique. Mas verdade seja dita: ele sempre nos convidava para passar uns dias na fazenda, ao que eu e meus irmãos, pardaizinhos de cidade (apelido de sua autoria) sempre negamos. Hoje vejo que foi um grande erro.
 
 Tio Rique em sua própria casa era uma presença silenciosa. Gostava de assistir até tarde da noite a qualquer filme de ação que estivesse passando na TV. Chuck Norris, Van Damme, Charles Bronson e alguns filmes de Ninja também. Tinha a alma seresteira e, apesar de não tocar nenhum instrumento, lembro de ouvi-lo cantar várias vezes a sua versão de “Perhaps Love”, “Killing me Softly” e “Yesterday”. Um dia, meu tio comprou um VHS de Uberaba, se não me falha a memória, com vários videoclipes mal concatenados dos Beatles. Lembro vividamente da sequência de músicas. Começava com “Twist and Shout”, depois passava para “Ticket to Ride” (a minha favorita), “You’re gonna lose that girl”, “Help”, “I Need You”. Depois havia um corte repentino para o show do John Lennon em 1972 no Central Park, cuja versão de “Imagine” fez minha tia Neide verter o que para mim eram suas lágrimas inéditas. Um dia, roubamos essa fita e a levamos para Uberlândia, onde ficaria por muitos anos. Então, acho que devo essa gentileza ao meu tio, foi ele quem me apresentou aos Beatles.
@@ -99,7 +103,8 @@ A orla de Maceió está toda emperequetada com bandeiras verde-amarelas para o s
 De tarde, dei ainda uma corrida pela orla, imerso num clima geral de fim de festa cívica. Havia ainda muita gente bebendo, muitas caixas de som tocando João Gomes e um cheiro quente de urina próximo à praia da Pajuçara. Em uma dessas saídas de esgoto que desembocam na praia, vi ainda um menino de uns oito anos de idade brincando como se estivesse numa piscina de condomínio. É a festa da democracia!
 
 ### 15 DE SETEMBRO
-Vivi essa tarde uma cena digna de “O Feijão e o Sonho”. Antes do almoço, que é normalmente a hora em que todas as brigas acontecem, Laís me apareceu angustiada, dizendo que nós precisamos de mais dinheiro, que mal conseguimos comprar as coisas que queremos: celular novo, mensalidade na academia, viagens, etc. Para ser justo, ela não só usou gastos banais como argumento, ela também estava preocupada em abrir mão da ajuda financeira que minha mãe vem nos oferecendo há algum tempo. </p>
+Vivi essa tarde uma cena digna de “O Feijão e o Sonho”. Antes do almoço, que é normalmente a hora em que todas as brigas acontecem, Laís me apareceu angustiada, dizendo que nós precisamos de mais dinheiro, que mal conseguimos comprar as coisas que queremos: celular novo, mensalidade na academia, viagens, etc. Para ser justo, ela não só usou gastos banais como argumento, ela também estava preocupada em abrir mão da ajuda financeira que minha mãe vem nos oferecendo há algum tempo.
+
 Tentei explicar pra minha amada namorada que se a gente quer mais dinheiro, a gente precisa fazer duas coisas: investir e empreender. Perguntei se ela está disposta a empreender ou vender alguma coisa. Ela disse que não. Nesse caso, disse que ela tem que se contentar com um cargo, e que nenhum cargo, por mais bem remunerado que seja, muda a vida financeira de ninguém. Depois de três meses, o empregado se acostuma com salário, seja mil, dez mil, cem mil reais, e sempre, sempre acha que está precisando de mais dinheiro.
 
 Ela retrucou dizendo que eu estava sendo “canguinha” e retranqueiro igual a um funcionário público, que eu não tinha ambição para enriquecer e consumir coisas melhores do tipo: “uma garrafa de vinho”. Indiretamente ela disse também que eu me considerava sabichão demais só porque eu li uns livrinhos sobre como ficar rico e que eu sabia tudo na teoria e nada na prática.
