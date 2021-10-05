@@ -52,15 +52,12 @@ Ainda excitado com toda a simbologia astrológica que venho absorvendo dos víde
 
 De qualquer forma, achei bem friendly o feedback que recebi deles e que agora transcrevo:
 
->Oi Cícero, espero que esteja bem!
-
->Quero agradecer sua participação e empenho em nosso processo. Foi um prazer te conhecer e saber mais sobre sua trajetória profissional. Entretanto, neste primeiro momento optamos por não seguir com sua candidatura. Aqui no Grupo Alura nós valorizamos muito o feedback e por esse motivo vou citar alguns pontos que levamos em consideração para a vaga de Designer Instrucional. Começando pelos pontos fortes que percebemos em você:
+>Oi Cícero, espero que esteja bem!</br>
+>Quero agradecer sua participação e empenho em nosso processo. Foi um prazer te conhecer e saber mais sobre sua trajetória profissional. Entretanto, neste primeiro momento optamos por não seguir com sua candidatura. Aqui no Grupo Alura nós valorizamos muito o feedback e por esse motivo vou citar alguns pontos que levamos em consideração para a vaga de Designer Instrucional. Começando pelos pontos fortes que percebemos em você:</br>
 >- Sua paixão por ensino e educação é algo notável, o que é muito importante para a área;
 >- Você se mostrou muito criativo e adepto a novas vivências, e isso é fundamental;
->- Você demonstrou muito engajamento durante o processo, o que é bem importante, pois mostra seu interesse na oportunidade.
-
-> No entanto, existem alguns pontos que nos levaram a essa decisão que nós do Grupo Alura acreditamos ser essenciais para o seu desenvolvimento:
-
+>- Você demonstrou muito engajamento durante o processo, o que é bem importante, pois mostra seu interesse na oportunidade.</p>
+>No entanto, existem alguns pontos que nos levaram a essa decisão que nós do Grupo Alura acreditamos ser essenciais para o seu desenvolvimento:</p>
 >- Durante a conversa acreditamos ser importante dar respostas mais detalhadas e claras, sabemos que em um processo seletivo podem surgir muitas ideias e lembranças em nossa mente, por isso é importante organizar os pontos mais importantes e trazer exemplos. Isso contribui para que possamos entender melhor suas vivências e experiências.
 
 
