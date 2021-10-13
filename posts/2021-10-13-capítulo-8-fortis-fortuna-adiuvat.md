@@ -164,8 +164,7 @@ O olhar de Bento envolveu o de Darlene com um vigor decidido. Ela buscou Gilvan 
 — Me encontra na porta da sorveteria amanhã às 7:15. <br>
 — Oi?<br>
 — Quando o sinal tocar não entra na escola. Não deixa o Índio te ver. Vem de blusa de frio, não vem de uniforme nem de mochila pesada. Eu vou te encontrar!  —  e sumiu por entre a maré de adolescentes que a levou escada acima.<br>
-A fortuna favorece os audazes. Era preciso sempre se lembrar disso. </p>
-Se já estava distraído nos últimos dias, as aulas restantes foram apenas uma longa chateação. Ele tinha outros problemas em mente, afinal amanhã seria um dia longo, o primeiro encontro (podemos chamá-lo assim?) desde o fiasco na casa do Gilvan. Era preciso não pisar na bola dessa vez. Era preciso parecer maduro, e para isso, a unanimidade dizia que ter um dinheirinho no bolso ajudaria, sem dúvida. É isso: a sensação da nota inteira e um valor redondo na carteira ou no bolso daria forças para andar ereto ao lado de Darlene. Onde Bento estava com a cabeça? Que tipo de pessoa fodida aparece a um encontro sem um tostão furado pra gastar? <br>
+A fortuna favorece os audazes. Era preciso sempre se lembrar disso.</p>Se já estava distraído nos últimos dias, as aulas restantes foram apenas uma longa chateação. Ele tinha outros problemas em mente, afinal amanhã seria um dia longo, o primeiro encontro (podemos chamá-lo assim?) desde o fiasco na casa do Gilvan. Era preciso não pisar na bola dessa vez. Era preciso parecer maduro, e para isso, a unanimidade dizia que ter um dinheirinho no bolso ajudaria, sem dúvida. É isso: a sensação da nota inteira e um valor redondo na carteira ou no bolso daria forças para andar ereto ao lado de Darlene. Onde Bento estava com a cabeça? Que tipo de pessoa fodida aparece a um encontro sem um tostão furado pra gastar? <br>
 Mais tarde, na volta para casa daquele mesmo dia, Bento esperou Tales e Fábio, depois Gilvan lhe deixar a sós com Gustavo para lhe dizer, encabulado:<br>
 — Cara, você é meu amigo, né?<br>
 — Claro, uai.<br>
@@ -190,9 +189,7 @@ Mais tarde, na volta para casa daquele mesmo dia, Bento esperou Tales e Fábio, 
 — De tarde eu passo aqui pra você entregar o trabalho de Geografia pra mim.<br>
 — Beleza. Não quer o dinheiro mesmo, né? Quer almoçar aqui pelo menos?<br>
 — Não. Almoço eu ainda tenho lá em casa.<br>
-— Beleza. Falou então. Cê tá comedor demais, Bento..— a frase soou abafada à medida que a Gustavo subia os degraus de seu apartamento de classe média.<br>
-
-Ao longo daquela tarde, Bento reviraria o céu e o inferno para arquitetar um plano para extrair dinheiro de seus pais. Pensou até em assaltar a bolsa de Célia, mas só usaria esse expediente quando a última opção fosse exaurida. Mais tarde, quando trouxe para a cozinha a louça suja, Bento estranhamente permaneceria por mais tempo na cozinha na companhia de seus pais. A certo ponto, trouxe um inusitado tema de conversa à baila:<br>
+— Beleza. Falou então. Cê tá comedor demais...— a frase soou abafada à medida que a Gustavo subia os degraus de seu apartamento de classe média.<br>Ao longo daquela tarde, Bento reviraria o céu e o inferno para arquitetar um plano para extrair dinheiro de seus pais. Pensou até em assaltar a bolsa de Célia, mas só usaria esse expediente quando a última opção fosse exaurida. Mais tarde, quando trouxe para a cozinha a louça suja, Bento estranhamente permaneceu por mais tempo na cozinha na companhia de seus pais. A certo ponto, trouxe um inusitado tema de conversa à baila:<br>
 — Mãe, sabe uma coisa que eu sempre sonhei em fazer desde criança?<br>
 — Hmm...?<br>
 — Falar em público. Sempre sonhei em aprender a falar em público.<br>
