@@ -161,10 +161,11 @@ Talvez tenha sido Deus, ou o Universo, ou espíritos que guardam os Uberlandense
 — Teolinda tá olhando pra gente.<br>
 — Teolinda pode vir me bater se ela quiser. Mas eu não me importo mais porque eu preciso falar com você agora. <br>
 O olhar de Bento envolveu o de Darlene com um vigor decidido. Ela buscou Gilvan com os olhos, como se mentalmente o consultasse e disse, também decidida:<br>
-— Me encontra na porta da sorveteria amanhã às 7:15. <br>
+— Me encontra na porta da sorveteria amanhã às sete e quinze. <br>
 — Oi?<br>
 — Quando o sinal tocar não entra na escola. Não deixa o Índio te ver. Vem de blusa de frio, não vem de uniforme nem de mochila pesada. Eu vou te encontrar!  —  e sumiu por entre a maré de adolescentes que a levou escada acima.<br>
-A fortuna favorece os audazes. Era preciso sempre se lembrar disso.</p>Se já estava distraído nos últimos dias, as aulas restantes foram apenas uma longa chateação. Ele tinha outros problemas em mente, afinal amanhã seria um dia longo, o primeiro encontro (podemos chamá-lo assim?) desde o fiasco na casa do Gilvan. Era preciso não pisar na bola dessa vez. Era preciso parecer maduro, e para isso, a unanimidade dizia que ter um dinheirinho no bolso ajudaria, sem dúvida. É isso: a sensação da nota inteira e um valor redondo na carteira ou no bolso daria forças para andar ereto ao lado de Darlene. Onde Bento estava com a cabeça? Que tipo de pessoa fodida aparece a um encontro sem um tostão furado pra gastar? <br>
+A fortuna favorece os audazes. Era preciso sempre se lembrar disso.<br>
+Se já estava distraído nos últimos dias, as aulas restantes foram apenas uma longa chateação. Ele tinha outros problemas em mente, afinal amanhã seria um dia longo, o primeiro encontro (podemos chamá-lo assim?) desde o fiasco na casa do Gilvan. Era preciso não pisar na bola dessa vez. Era preciso parecer maduro, e para isso, a unanimidade dizia que ter um dinheirinho no bolso ajudaria, sem dúvida. É isso: a sensação da nota inteira e um valor redondo na carteira ou no bolso daria forças para andar ereto ao lado de Darlene. Onde Bento estava com a cabeça? Que tipo de pessoa fodida aparece a um encontro sem um tostão furado pra gastar? <br>
 Mais tarde, na volta para casa daquele mesmo dia, Bento esperou Tales e Fábio, depois Gilvan lhe deixar a sós com Gustavo para lhe dizer, encabulado:<br>
 — Cara, você é meu amigo, né?<br>
 — Claro, uai.<br>
