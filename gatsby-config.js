@@ -3,7 +3,7 @@ const queries = require("./src/utils/algolia_queries")
 
 module.exports = {
   flags: {
-    DEV_SSR: false
+    DEV_SSR: false,
   },
   siteMetadata: {
     title: `Subsidiário`,
