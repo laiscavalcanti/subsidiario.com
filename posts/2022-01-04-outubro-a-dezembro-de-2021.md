@@ -1,7 +1,7 @@
 ---
 title: Outubro a Dezembro de 2021
 description: Que as verdade seja pura como as palavras de um moribundo
-date: 2022-01-04 09:54:19
+date: 2022-01-11 01:06:19
 image: static/assets/img/1641298747332.jpg
 imagePost: static/assets/img/1641298747332.jpg
 author: por Cícero Marra
