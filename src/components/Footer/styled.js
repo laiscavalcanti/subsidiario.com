@@ -12,7 +12,7 @@ export const MenuBarWrapper = styled.aside`
   ${media.lessThan("large")`
   display: flex;
   justify-content: flex-start;
-  height: 5.5rem;
+  height: 5.6rem;
   `}
 `
 export const MenuBarGroup = styled.div`
