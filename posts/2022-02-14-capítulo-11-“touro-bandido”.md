@@ -3,8 +3,8 @@ title: Capítulo 11 - “Touro Bandido”
 description: Décimo primeiro capítulo de "Darlene, meu Amor" a ser lançado em
   alguma data do ano de 2021, espero.
 date: 2022-02-14 04:02:46
-image: static/assets/img/60174904.jpg
-imagePost: static/assets/img/60174904.jpg
+image: static/assets/img/capturar.png
+imagePost: static/assets/img/capturar.png
 author: por Cícero Marra
 tags:
   - livro
