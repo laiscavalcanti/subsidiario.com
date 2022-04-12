@@ -20,7 +20,7 @@ body{
     line-height: 1;
     font-size: 100%;
     font-family: "Montserrat", sans-serif;
-    background-image: url(${img});
+   
 }
 
   img {
